@@ -51,7 +51,7 @@ _Smart IoT security for NGOs_ using a custom PCB + ESP32 + Arduino to automate a
   "Languages": ["Python", "C++", "Java", "JavaScript", "SQL"],
   "ML/AI": ["YOLOv8", "HuggingFace", "Scikit-Learn", "OpenCV", "TensorFlow", "Groq"],
   "LLM & RAG": ["LangChain", "LangGraph", "FAISS", "ChromaDB"],
-  "Frameworks": ["FastAPI", "Flask", "Spring Boot", "Streamlit"],
+  "Frameworks": ["Node.js", "Express.js", "FastAPI", "Flask", "Spring Boot", "Streamlit"],
   "DevOps": ["AWS", "Docker", "Git", "Terraform", "CI/CD", "CloudFormation"],
   "Tools": ["VSCode", "Jupyter", "Linux", "DeepStream", "PostgreSQL", "MongoDB"]
 }
