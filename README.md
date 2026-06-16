@@ -8,7 +8,6 @@
 
 ### 🧑‍💻 About Me
 
-- 📍 Based in Texas | 💼 Open to Internships (SWE/ML/DevOps)
 - 🎓 CS Undergrad at **UT Dallas** | 4.0 GPA
 - 💭 Passionate about building real-world AI systems that scale — from edge devices to the cloud
 - 🧪 Intern @ **Industry.AI** — Built vision-based systems using **YOLOv8 + NVIDIA DeepStream**, improving safety compliance by **45%**
