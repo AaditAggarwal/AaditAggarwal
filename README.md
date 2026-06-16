@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 CS Undergrad at **UT Dallas** | 4.0 GPA
+- 🎓 CS Undergrad at **UT Dallas** | 3.99 GPA
 - 💭 Passionate about building real-world AI systems that scale — from edge devices to the cloud
 - 🧪 Intern @ **Industry.AI** — Built vision-based systems using **YOLOv8 + NVIDIA DeepStream**, improving safety compliance by **45%**
 - 📈 Peer Tutor @ UTD — Helped 1000+ students boost math confidence through Calculus tutoring
