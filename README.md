@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aadit-aggarwal-12a377273/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aadit-aggarwal-12a377273/">LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/AaditAggarwal" target="_blank">GitHub</a>
+  <a href="https://github.com/AaditAggarwal">GitHub</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:aadit.asr5904@gmail.com">Email</a>
 </p>
